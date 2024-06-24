@@ -1,8 +1,7 @@
 VLG Summer Project
 
 "# Extreme-Low-Light-Image-Denoising-NTIRE-Challenge-2k24" 
-"# neural_style_transfer" 
-"# neural_style_transfer" 
+
 =======
 "# Extreme-Low-Light-Image-Denoising-NTIRE-Challenge-2k24"/
 
@@ -25,5 +24,4 @@ Training Platform: Kaggle Notebook
 GPU Used: NVIDIA Tesla P100
 Reference
 The model architecture and training methodology are based on the research presented in the following paper:
->>>>>>> 9cf85db49aae7720fcaa3206097f8013cc84b2f0
 "# drone-fault-detection" 
